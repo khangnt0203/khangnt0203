@@ -2,7 +2,7 @@
 My name is Khang
 - 🔭 I'm undergraduate FPT university
 - 🌱 I’m currently learning: Software Engineering 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khangnt0203&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khangnt0203&show_icons=true&theme=radical)]
 <!--
 **khangnt0203/khangnt0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
