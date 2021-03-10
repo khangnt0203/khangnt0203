@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Khang
 
 <!--
 **khangnt0203/khangnt0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
