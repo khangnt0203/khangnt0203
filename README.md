@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! Nguyen Tra Khang</h2>
+
 My name is Khang
 - 🔭 I'm undergraduate FPT university
 - 🌱 I’m currently learning: Software Engineering 
