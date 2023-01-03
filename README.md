@@ -3,6 +3,9 @@
 My name is Khang
 - 🔭 I'm undergraduate FPT university
 - 🌱 I’m currently learning: Software Engineering 
+- 😄  I’m working as Front-end Developer in ReactJS
+
+⚡ Fun fact: My future plan is in the feature I will become tech lead of front-end team.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khangnt0203&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khangnt0203&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
